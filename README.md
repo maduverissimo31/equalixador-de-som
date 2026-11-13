@@ -1,0 +1,1 @@
+# equalixador-de-som
